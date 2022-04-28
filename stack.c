@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-#define SIZE 3
+#define SIZE 10
 
 
 void push (int stack[], int *Top, int item)
